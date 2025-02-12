@@ -4,7 +4,7 @@ from matplotlib.colors import ListedColormap
 from sklearn import datasets, neighbors
 from sklearn.inspection import DecisionBoundaryDisplay
 # Ny kommentar i ny branch
-#huheuhue
+#test
 
 if __name__ == "__main__":
     n_neighbors = 15
